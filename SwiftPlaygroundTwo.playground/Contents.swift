@@ -7,7 +7,7 @@ var str = "Hello, playground"
 var goodGrade = "I've been doing all my work"
 if goodGrade == "I've been doing all my work"
 {
-print("I should be getting an A at this point")
+    print("I should be getting an A at this point")
 }
 else
 {
@@ -16,9 +16,10 @@ else
 
 var gradeA = true
 if gradeA {
-print("This class is interesting")
+    print("This class is interesting")
 }
 else
 {
     print("But it is super confusing")
 }
+
