@@ -20,5 +20,5 @@ print("This class is interesting")
 }
 else
 {
-    print("But it's super confusing")
+    print("But it is super confusing")
 }
